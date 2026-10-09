@@ -76,7 +76,7 @@ When a session exceeds turn thresholds (e.g. 100 turns) or hits Google API quota
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/antigravity-mcp-bridge.git
+git clone https://github.com/SuperGODOG/antigravity-mcp-bridge.git
 cd antigravity-mcp-bridge
 
 # 2. Create virtual environment & install dependencies
